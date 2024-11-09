@@ -7,3 +7,5 @@ Este proyecto tiene el fin de plasmar todos los conocimientos adquiridos durante
 - `styles.css`: Archivo de estilos que define la apariencia de la página.
 - `images/`: Carpeta donde se almacenan fotos y recursos visuales.
 - `README.md`: Documentación del proyecto, incluyendo enlace a GitHub Pages.
+
+Link de GithubPages: https://dirceuuuu.github.io/CV_HTML_CSS/
